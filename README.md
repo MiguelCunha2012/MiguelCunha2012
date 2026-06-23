@@ -1,4 +1,5 @@
-# Olá, eu sou o Miguel Cunha <img src="https://github.com/user-attachments/assets/94968c4f-3c84-4e45-aad1-6c1222858019" height="120" width="120" style="position: absolute; right: 10px; top: 0; z-index: 1;">
+# Olá, eu sou o Miguel Cunha 
+<img src="https://github.com/user-attachments/assets/94968c4f-3c84-4e45-aad1-6c1222858019" height="120" width="120" style="position: absolute; right: 10px; top: 0; z-index: 1;">
 
 ### Desenvolvedor | Analista de Suporte N2 | Formado em Análise e Desenvolvimento de Sistemas (ADS)
 
