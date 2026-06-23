@@ -1,29 +1,30 @@
-# Opa! Eu sou o Miguel🎈  
-<hr>
-<img src="https://github.com/user-attachments/assets/94968c4f-3c84-4e45-aad1-6c1222858019" 
-     height="120" width="120" 
-     style="position: absolute; right: 10px; top: 0; z-index: 1;">
+# Olá, eu sou o Miguel Cunha <img src="https://github.com/user-attachments/assets/94968c4f-3c84-4e45-aad1-6c1222858019" height="120" width="120" style="position: absolute; right: 10px; top: 0; z-index: 1;">
 
+### Desenvolvedor | Analista de Suporte N2 | Formado em Análise e Desenvolvimento de Sistemas (ADS)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelCunha2012&show_icons=true&theme=radical&hide_title=true&count_private=true&hide=prs&border_radius=10&custom_title=Estatísticas)
+Sou um desenvolvedor apaixonado por criar soluções eficientes, com forte interesse em automação, análise de dados e desenvolvimento de software. Busco constantemente aplicar a tecnologia para resolver problemas complexos e otimizar processos operacionais.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCunha2012&layout=compact&theme=radical&hide_title=true&border_radius=10&custom_title=Linguagens)
+## 🚀 Sobre Mim
 
-<hr>
+*   🎓 Formado em **Análise e Desenvolvimento de Sistemas (ADS)**.
+*   💼 Atualmente trabalhando como **Analista de Suporte N2**, focado em troubleshooting avançado e estabilidade de sistemas.
+*   🎯 Experiência no desenvolvimento web e mobile, além de atuar com análise de dados e criação de scripts para automação.
+*   🎮 No tempo livre, exploro o ecossistema de design e desenvolvimento de jogos utilizando **Unreal Engine 5**.
 
-<div style="display: flex; justify-content: space-evenly; flex-wrap: wrap; position: relative; width: 100%; max-width: 720px;">
-  <img align="center" alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="MySQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="C" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</div>
+## 🛠️ Tecnologias e Ferramentas
 
-<hr>
+*   **Linguagens & Frameworks:** Python, C#, PHP, .NET MAUI, React
+*   **Bancos de Dados:** SQL (Oracle, MySQL)
+*   **Análise de Dados:** Power BI, Excel (DAX)
+*   **Arquitetura & Design:** Padrão MVVM, Integração de APIs, UI/UX
 
-<div align="center">
-  <a href="https://www.instagram.com/miguelfilipecunha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:miguelcunha1205@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/miguelcunha2012/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## 🏆 Destaques e Projetos
+
+*   🥇 **Prêmio "Best Kaizen" (Operação DHL Philips):** Reconhecimento pelo desenvolvimento de um script em Python que automatizou a verificação de sequências de etiquetas, otimizando o fluxo logístico durante minha trajetória no setor.
+*   📈 **Calculadora Financeira (Mobile/Web):** Desenvolvimento de uma aplicação voltada para cálculos de juros compostos, com integração direta à API da taxa Selic do Banco Central do Brasil.
+*   ✂️ **Plataforma SaaS White Label:** Estruturação tecnológica e de negócios de um sistema focado na gestão e personalização de aplicativos para barbearias e salões de beleza.
+*   📱 **AppUnis:** Projeto de aplicativo mobile construído do zero utilizando .NET MAUI e C#, aplicando a arquitetura MVVM para estruturação de código e interface.
+
+## 📫 Como me encontrar
+
+Estou sempre aberto a novas conexões, conversas sobre tecnologia e troca de experiências na área de suporte, desenvolvimento e dados. Sinta-se à vontade para se conectar comigo pelo LinkedIn!
