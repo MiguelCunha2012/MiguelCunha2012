@@ -10,7 +10,6 @@ Sou um desenvolvedor apaixonado por criar soluções eficientes, com forte inter
 *   🎓 Formado em **Análise e Desenvolvimento de Sistemas (ADS)**.
 *   💼 Atualmente trabalhando como **Analista de Suporte N2**, focado em troubleshooting avançado e estabilidade de sistemas.
 *   🎯 Experiência no desenvolvimento web e mobile, além de atuar com análise de dados e criação de scripts para automação.
-*   🎮 No tempo livre, exploro o ecossistema de design e desenvolvimento de jogos utilizando **Unreal Engine 5**.
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -24,8 +23,16 @@ Sou um desenvolvedor apaixonado por criar soluções eficientes, com forte inter
 *   🥇 **Prêmio "Best Kaizen" (Operação DHL Philips):** Reconhecimento pelo desenvolvimento de um script em Python que automatizou a verificação de sequências de etiquetas, otimizando o fluxo logístico durante minha trajetória no setor.
 *   📈 **Calculadora Financeira (Mobile/Web):** Desenvolvimento de uma aplicação voltada para cálculos de juros compostos, com integração direta à API da taxa Selic do Banco Central do Brasil.
 *   ✂️ **Plataforma SaaS White Label:** Estruturação tecnológica e de negócios de um sistema focado na gestão e personalização de aplicativos para barbearias e salões de beleza.
-*   📱 **AppUnis:** Projeto de aplicativo mobile construído do zero utilizando .NET MAUI e C#, aplicando a arquitetura MVVM para estruturação de código e interface.
+*   📱 **App BI:** Projeto de aplicativo mobile construído do zero utilizando .NET MAUI e C#, aplicando a arquitetura MVVM para estruturação de código e interface.
 
 ## 📫 Como me encontrar
 
 Estou sempre aberto a novas conexões, conversas sobre tecnologia e troca de experiências na área de suporte, desenvolvimento e dados. Sinta-se à vontade para se conectar comigo pelo LinkedIn!
+<div align="left">
+  <a href="https://www.linkedin.com/in/miguelcunha2012/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:miguelcunha2012@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
